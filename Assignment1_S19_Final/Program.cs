@@ -41,8 +41,14 @@ namespace Assignment1_S19_Final
             computeFrequency(arr);
             Console.ReadKey();
 
-     
+
             // write your self-reflection here as a comment
+           
+
+            //This assignment was really helpful as it helped me to think on my own and make use of different loops and conditional statements.
+            //It also made me use breakpoints for debugging which helped me to understand when my output was not correct.
+            //As it did not allow to make use of inbuilt functions, it made me think and make use of logic !
+            //This assigment was a great hands on experience.
 
         }
 
@@ -312,9 +318,3 @@ namespace Assignment1_S19_Final
 
 }
 
-//Reflection for the assignment
-
-//This assignment was really helpful as it helped me to think on my own and make use of different loops and conditional statements.
-//It also made me use breakpoints for debugging which helped me to understand when my output was not correct.
-//As it did not allow to make use of inbuilt functions, it made me think and make use of logic !
-//This assigment was a great hands on experience.
