@@ -49,6 +49,8 @@ namespace Assignment1_S19_Final
             //It also made me use breakpoints for debugging which helped me to understand when my output was not correct.
             //As it did not allow to make use of inbuilt functions, it made me think and make use of logic !
             //This assigment was a great hands on experience.
+            //Also the part of creating repository on GitHub and synchronizing our code on it was useful.
+            //I think this assignment was really good so I do not have any recommendations to make it better.
 
         }
 
